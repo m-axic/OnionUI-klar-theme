@@ -8,7 +8,7 @@
     "visible": true,
     "font": "Inter-Bold.otf",
     "size": 14,
-    "color": "#00151A",
+    "color": "#FFFCF5",
     "offsetX": 47,
     "offsetY": 0,
     "onleft": true
@@ -16,25 +16,25 @@
   "title": {
     "font": "Inter-Bold.otf",
     "size": 20,
-    "color": "#FFFFFF"
+    "color": "#000000"
   },
   "hint": {
     "font": "Inter-Bold.otf",
     "size": 20,
-    "color": "#FFFFFF"
+    "color": "#000000"
   },
-  "currentpage": { "color": "#FFFFFF" },
-  "total": { "color": "#FFFFFF" },
+  "currentpage": { "color": "#000000" },
+  "total": { "color": "#000000" },
   "grid": {
     "font": "Inter-SemiBold.otf",
     "grid1x4": 25,
     "grid3x4": 20,
-    "color": "#006A80",
-    "selectedcolor": "#FFFFFF"
+    "color": "#FFDD99",
+    "selectedcolor": "#000000"
   },
   "list": {
     "font": "Inter-SemiBold.otf",
     "size": 25,
-    "color": "#FFFFFF"
+    "color": "#000000"
   }
 }
