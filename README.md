@@ -7,6 +7,10 @@
 **A simplistic, clear theme with multiple color variants for Miyoo Mini and Miyoo Mini Plus.**
 
 <br>
+<a href="https://github.com/m-axic/OnionUI-klar-theme">
+  <img src="assets/download.png" height="56" alt="Download on GitHub">
+</a>
+<br>
 
 ---
 
