@@ -7,6 +7,9 @@
 **A simplistic, clear theme with multiple color variants for Miyoo Mini and Miyoo Mini Plus.**
 
 <br>
+<a href="https://www.buymeacoffee.com/maxic">
+  <img src="assets/coffee.png" height="56" alt="Buy me a Coffee">
+</a>
 <a href="https://github.com/m-axic/OnionUI-klar-theme">
   <img src="assets/download.png" height="56" alt="Download on GitHub">
 </a>
