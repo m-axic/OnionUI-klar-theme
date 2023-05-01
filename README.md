@@ -11,7 +11,7 @@
 ---
 
 <br>
-<img style="display: block" src="assets/colors.png" width="512" alt="klar color variants">
+<img style="display: block;" src="assets/colors.png" width="512" alt="klar color variants">
 <br>
 
 ---
@@ -20,7 +20,7 @@
 
 ## Screenshots
 
-### Dark Themes
+### Dark Variants
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(256px, 1fr)); gap: 24px;">
   <img style="display: block" src="klar aqua by m_axic/preview.png" width="256" alt="klar • aqua">
@@ -33,9 +33,12 @@
 
 <br>
 
-### Light Themes
+### Light Variants
 
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(256px, 1fr)); gap: 24px;">
+<img style="display: block" src="klar honey by m_axic/preview.png" width="256" alt="klar • honey">
 <img src="klar snow by m_axic/preview.png" width="256" alt="klar • snow">
+</div>
 
 <br>
 
