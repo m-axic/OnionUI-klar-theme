@@ -1,14 +1,22 @@
 # OnionUI klar Theme
 
-A simplistic, clear theme with multiple color variants for Miyoo Mini and Miyoo Mini Plus.
+<br>
+<img style="display: block" src="assets/header.png" width="160" alt="Onion OS klar">
+<br>
 
-- aqua
-- berry
-- coal
-- crimson
-- lime
-- sand
-- snow
+**A simplistic, clear theme with multiple color variants for Miyoo Mini and Miyoo Mini Plus.**
+
+<br>
+
+---
+
+<br>
+<img style="display: block" src="assets/colors.png" width="512" alt="klar color variants">
+<br>
+
+---
+
+<br>
 
 ## Screenshots
 
@@ -30,6 +38,8 @@ A simplistic, clear theme with multiple color variants for Miyoo Mini and Miyoo 
 <img src="klar snow by m_axic/preview.png" width="256" alt="klar • snow">
 
 <br>
+
+---
 
 ## Credits
 
