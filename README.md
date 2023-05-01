@@ -46,4 +46,11 @@
 
 ## Credits
 
-- Icons by: [Phosphor Icons](https://phosphoricons.com/), Onion
+### Icons
+
+- [Phosphor Icons](https://phosphoricons.com/)
+- OnionUI
+
+### Font
+
+- [Inter](https://rsms.me/inter/)
