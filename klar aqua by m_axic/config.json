@@ -6,10 +6,10 @@
   "hideLabels": { "icons": false, "hints": false },
   "batteryPercentage": {
     "visible": true,
-    "font": "Inter-Bold.otf",
+    "font": "Inter-Bold-Battery.ttf",
     "size": 14,
-    "color": "#00151A",
-    "offsetX": 47,
+    "color": "#FFFFFF",
+    "offsetX": 13,
     "offsetY": 0,
     "onleft": true
   },
