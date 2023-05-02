@@ -1,17 +1,17 @@
-# OnionUI klar Theme
+# `klar` by `m_axic`
 
 <br />
 <img src="assets/header.png" width="160" alt="Onion OS klar">
 <br />
 
-**A simplistic, clear theme with multiple color variants for Miyoo Mini and Miyoo Mini Plus.**
+**A simplistic, clear theme with multiple color variants for [Onion OS](https://github.com/OnionUI/Onion).**
 
 <br />
 <a href="https://www.buymeacoffee.com/maxic">
   <img src="assets/coffee.png" height="56" alt="Buy me a Coffee">
 </a>
 <a href="https://github.com/m-axic/OnionUI-klar-theme">
-  <img src="assets/download.png" height="56" alt="Download on GitHub">
+  <img src="assets/download.png" height="56" alt="Get Latest">
 </a>
 <br />
 
