@@ -1,29 +1,10 @@
 # `klar` by `m_axic`
 
-<br />
 <img src="assets/header.svg" width="160" alt="Onion OS klar">
-<br />
 
 **A simplistic, clear theme with multiple color variants for [Onion OS](https://github.com/OnionUI/Onion).**
 
-<br />
-<a href="https://www.buymeacoffee.com/maxic">
-  <img src="assets/coffee.svg" height="56" alt="Buy me a Coffee">
-</a>
-<a href="https://github.com/m-axic/OnionUI-klar-theme/releases">
-  <img src="assets/download.svg" height="56" alt="Get Latest">
-</a>
-<br />
-
----
-
-<br />
-<img src="assets/colors.svg" width="512" alt="klar color variants">
-<br />
-
----
-
-<br />
+<img src="assets/colors.svg" width="600" alt="klar color variants">
 
 ## Screenshots
 
@@ -38,8 +19,6 @@
   <img src="klar sand by m_axic/preview.png" width="256" alt="klar • sand">
 </div>
 
-<br />
-
 ### Light Variants
 
 <div>
@@ -47,7 +26,14 @@
   <img src="klar snow by m_axic/preview.png" width="256" alt="klar • snow">
 </div>
 
-<br />
+---
+
+<a href="https://www.buymeacoffee.com/maxic">
+  <img src="assets/coffee.svg" height="56" alt="Buy me a Coffee">
+</a>
+<a href="https://github.com/m-axic/OnionUI-klar-theme/releases">
+  <img src="assets/download.svg" height="56" alt="Get Latest">
+</a>
 
 ---
 
