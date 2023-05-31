@@ -1,10 +1,18 @@
 # `klar` by `m_axic`
 
-<img src="https://raw.githubusercontent.com/m-axic/OnionUI-klar-theme/8c395ecc760d4d540962d098f21b76bd3835536d/assets/header.svg" width="160" alt="Onion OS klar">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m-axic/OnionUI-klar-theme/main/assets/header-inverted.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/m-axic/OnionUI-klar-theme/main/assets/header.svg">
+  <img alt="Onion OS klar" width="160" src="https://raw.githubusercontent.com/m-axic/OnionUI-klar-theme/main/assets/header.svg">
+</picture>
 
 **A simplistic, clear theme with multiple color variants for [Onion OS](https://github.com/OnionUI/Onion).**
 
-<img src="https://raw.githubusercontent.com/m-axic/OnionUI-klar-theme/8c395ecc760d4d540962d098f21b76bd3835536d/assets/colors.svg" width="512" alt="klar color variants">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m-axic/OnionUI-klar-theme/main/assets/colors-inverted.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/m-axic/OnionUI-klar-theme/main/assets/colors.svg">
+  <img alt="klar color variants" width="512" src="https://raw.githubusercontent.com/m-axic/OnionUI-klar-theme/main/assets/colors.svg">
+</picture>
 
 ## Screenshots
 
@@ -29,10 +37,18 @@
 ---
 
 <a href="https://www.buymeacoffee.com/maxic">
-  <img src="https://raw.githubusercontent.com/m-axic/OnionUI-klar-theme/8c395ecc760d4d540962d098f21b76bd3835536d/assets/coffee.svg" height="56" alt="Buy me a Coffee">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m-axic/OnionUI-klar-theme/main/assets/coffee-inverted.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/m-axic/OnionUI-klar-theme/main/assets/coffee.svg">
+    <img alt="Buy me a Coffee" height="56" src="https://raw.githubusercontent.com/m-axic/OnionUI-klar-theme/main/assets/coffee.svg">
+  </picture>
 </a>
 <a href="https://github.com/m-axic/OnionUI-klar-theme/releases">
-  <img src="https://raw.githubusercontent.com/m-axic/OnionUI-klar-theme/8c395ecc760d4d540962d098f21b76bd3835536d/assets/download.svg" height="56" alt="Get Latest">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m-axic/OnionUI-klar-theme/main/assets/download-inverted.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/m-axic/OnionUI-klar-theme/main/assets/download.svg">
+    <img alt="Get Latest" height="56" src="https://raw.githubusercontent.com/m-axic/OnionUI-klar-theme/main/assets/download.svg">
+  </picture>
 </a>
 
 ---
